@@ -1,3 +1,5 @@
+#  直接运行文件进入视频窗口后就开始录制,按q退出并实现视频的保存
+#  视频窗口最小化后仍然在录像
 import cv2
 import importlib,sys
 importlib.reload(sys)
