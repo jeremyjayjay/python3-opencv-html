@@ -1,3 +1,4 @@
+#  直接运行文件进入视频窗口后就开始录制,按q退出并实现视频的保存
 import cv2
 
 cap = cv2.VideoCapture(0)
